@@ -1,0 +1,68 @@
+.storybook-page {
+  font-family: 'Roboto', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-size: 16px;
+  line-height: 1.6;
+  padding: 40px;
+  margin: 0 auto;
+  max-width: 600px;
+  color: #444;
+  background-color: #f9f9f9;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+}
+
+.storybook-page h2 {
+  font-weight: bold;
+  font-size: 28px;
+  margin: 0 0 20px;
+  color: #333;
+}
+
+.storybook-page p {
+  margin: 1em 0;
+}
+
+.storybook-page a {
+  text-decoration: underline;
+  color: #0077cc;
+}
+
+.storybook-page ul {
+  padding-left: 20px;
+  margin: 1em 0;
+}
+
+.storybook-page li {
+  margin-bottom: 10px;
+}
+
+.storybook-page .tip {
+  display: inline-block;
+  border-radius: 0.5em;
+  font-size: 12px;
+  font-weight: bold;
+  background-color: #e0f7fa;
+  color: #0097a7;
+  padding: 4px 10px;
+  margin-right: 8px;
+  vertical-align: middle;
+}
+
+.storybook-page .tip-wrapper {
+  font-size: 14px;
+  line-height: 1.4;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.storybook-page .tip-wrapper svg {
+  display: inline-block;
+  height: 14px;
+  width: 14px;
+  margin-right: 5px;
+  vertical-align: middle;
+}
+
+.storybook-page .tip-wrapper svg path {
+  fill: #0077cc;
+}
